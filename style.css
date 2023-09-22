@@ -65,3 +65,16 @@ img {
   font-size: 16px;
   cursor: pointer;
 }
+
+
+.close-button{
+  border: 1px solid black;
+  background-color: rgb(251, 142, 142);
+  margin-right: 5px;
+}
+
+.edit-button{
+  border: 1px solid black;
+  background-color: rgb(251, 142, 142);
+  margin-left: 5px;
+}
